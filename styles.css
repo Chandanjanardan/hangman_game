@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&family=Ubuntu:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #574b90;
+    font-family: "Patua One",sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}.wrapper{
+    width: 100%;
+    margin: 0 auto;
+}
+h1,h2,h3{
+    font-family: "patua One",sans-serif;
+    font-weight: 80;
+    text-transform: uppercase;
+    margin: 5px 0;
+}
